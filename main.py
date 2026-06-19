@@ -9,8 +9,8 @@ Requisitos:
     playwright install chromium
 
 Variables de entorno (en Railway o .env):
-    TELEGRAM_TOKEN   -> Token del bot (8900999414:AAH_svjTHfZXiAQ0jgr_z_eAyBsrrdoHyUE)
-    TELEGRAM_CHAT_ID -> ID del canal (@Bountiespumpbot)
+    TELEGRAM_TOKEN   -> Token del bot 8900999414:AAH_svjTHfZXiAQ0jgr_z_eAyBsrrdoHyUE
+    TELEGRAM_CHAT_ID -> ID del canal @Bountiespumpbot
     CHECK_INTERVAL   -> Segundos entre cada chequeo (default: 120)
     MIN_VALUE_USD    -> Valor mínimo en USD para notificar (default: 0)
 """
